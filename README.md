@@ -15,6 +15,6 @@ I enjoy problem-solving and mathematics, and I am learning how to turn logic int
 - Practise coding problems every week
 
 ## Connect
-- LinkedIn: www.linkedin.com/in/hemprakash-s-a07179439
+- LinkedIn: https://www.linkedin.com/in/hemprakash-s-a07179439/
 
 
