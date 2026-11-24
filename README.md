@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Hemprakash S 👋
 
-<!--
-**hemprakash-learner/hemprakash-learner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year Computer Science and Engineering student at Saveetha Engineering College.
 
-Here are some ideas to get you started:
+## About Me
+I enjoy problem-solving and mathematics, and I am learning how to turn logic into working programs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Python (basics, problem-solving programs)
+- HTML (building simple web pages)
+
+## Goals (next 6 months)
+- Complete and document 2 small Python projects
+- Build a simple personal web page using HTML
+- Practise coding problems every week
+
+## Connect
+- LinkedIn: [paste your LinkedIn link here]
